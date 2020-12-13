@@ -11,6 +11,6 @@ public void loginw()
 @Test
 public void logout()
 {
-	System.out.println("logout");
+	System.out.println("logoujjt");
 }
 }
