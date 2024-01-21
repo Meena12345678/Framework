@@ -14,9 +14,4 @@ public void logout()
 	System.out.println("logoujjt");
 }
 
-@Test
-public void singup()
-{
-	System.out.println("singup");
-}
 }
